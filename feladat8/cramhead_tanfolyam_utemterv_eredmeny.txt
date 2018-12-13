@@ -1,0 +1,9 @@
+Dátum	Tanfkód	Tanf leírás	Tanf felelõs	Tanf helye	Elõadó	Max	ideig	biztos	Össz	Készn	Mégj
+2018-01-15-2018-01-19	CSTJAN1	leiras	GJ	1111111	Piros ház	10	2	10	12		megjegyzes
+2018-01-15-2018-01-19	EXSJAN1	leiras	VD	3333333	Zöld ház	10	0	6	6		megjegyzes
+2018-01-20-2018-01-24	STSJAN1	leiras	GJ	2222222	Fehér ház	10	0	6	6		megjegyzes
+2018-01-20-2018-01-24	CSTJAN2	leiras	NB	1111111	Piros ház	10	0	5	5		megjegyzes
+2018-02-10-2018-02-14	KZSFEB1	leiras	VD	3333333	Zöld ház	10	0	6	6		megjegyzes
+2018-02-15-2018-02-19	CSTFEB1	leiras	KJ	1111111	Piros ház	10	0	5	5		megjegyzes
+2018-02-15-2018-02-19	EXSFEB1	leiras	NB	3333333	Zöld ház	10	0	5	5		megjegyzes
+2018-02-20-2018-02-24	STSFEB1	leiras	NB	2222222	Fehér ház	10	0	3	3		megjegyzes
