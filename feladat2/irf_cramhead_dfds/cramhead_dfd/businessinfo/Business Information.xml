@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="2B0A7634-570E-787B-9E4D-E1217B3456FB">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 20:37:51 UTC</createdTime>
+<ownerDesignName>cramhead_dfd</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>

@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Törlési kérelem" directorySegmentName="seg_0" id="79CDA9F3-C9FF-5A4E-54A6-599FC9591F66">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 21:03:25 UTC</createdTime>
+<ownerDesignName>cramhead_dfd_2</ownerDesignName>
+<destination>7E7317EE-4C90-AF40-A99F-B827F2F3DF47</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>false</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>40C8E317-8B77-1B59-A5CE-711EED9AE7B8</sourceProcessObject>
+<targetProcessObject>7E7317EE-4C90-AF40-A99F-B827F2F3DF47</targetProcessObject>
+</Flow>

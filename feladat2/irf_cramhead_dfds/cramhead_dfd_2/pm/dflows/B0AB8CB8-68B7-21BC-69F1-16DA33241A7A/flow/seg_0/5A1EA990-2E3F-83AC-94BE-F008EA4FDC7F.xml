@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Elfogadás átvezetése" directorySegmentName="seg_0" id="5A1EA990-2E3F-83AC-94BE-F008EA4FDC7F">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 21:13:45 UTC</createdTime>
+<ownerDesignName>cramhead_dfd_2</ownerDesignName>
+<destination>AA0D1FB0-0230-BC8B-8E05-8A064A385721</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>true</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>7DF8549C-A1ED-E55A-CAF5-6F7D47B29B8A</sourceProcessObject>
+<targetProcessObject>AA0D1FB0-0230-BC8B-8E05-8A064A385721</targetProcessObject>
+</Flow>

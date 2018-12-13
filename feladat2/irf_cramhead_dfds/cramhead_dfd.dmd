@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="cramhead_dfd" id="85ABA504-D803-9593-67B1-1B228E46BC0F" version="3.5">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 20:37:50 UTC</createdTime>
+<ownerDesignName>cramhead_dfd</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>85ABA504-D803-9593-67B1-1B228E46BC0F</designId>
+</OSDM_Design>

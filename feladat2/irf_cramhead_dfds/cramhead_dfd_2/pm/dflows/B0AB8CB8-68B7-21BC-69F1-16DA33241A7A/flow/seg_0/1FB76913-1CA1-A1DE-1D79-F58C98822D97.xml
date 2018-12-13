@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Foglalási űrlap" directorySegmentName="seg_0" id="1FB76913-1CA1-A1DE-1D79-F58C98822D97">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 21:17:48 UTC</createdTime>
+<ownerDesignName>cramhead_dfd_2</ownerDesignName>
+<destination>CC42B4C8-8CD4-0EAF-4849-345CA663911F</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>true</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>7DF8549C-A1ED-E55A-CAF5-6F7D47B29B8A</sourceProcessObject>
+<targetProcessObject>CC42B4C8-8CD4-0EAF-4849-345CA663911F</targetProcessObject>
+</Flow>

@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Szabad hely" directorySegmentName="seg_0" id="066338F0-1A54-FCC7-C113-C087C5E8AAEB">
+<createdBy>Developer</createdBy>
+<createdTime>2018-11-05 16:13:04 UTC</createdTime>
+<ownerDesignName>LDS</ownerDesignName>
+<engineerTo>
+<item key="F8C6EB76-2AB8-B214-D344-B6D8399E4325" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>44CE0E5A-933E-6018-2824-534FC4E48DC4</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>23B295D0-6B91-1F04-A7C9-87545D8192AE</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="85F4FEDC-CC54-B97F-5FBB-57B0E8945520">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 20:37:51 UTC</createdTime>
+<ownerDesignName>cramhead_dfd_2</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

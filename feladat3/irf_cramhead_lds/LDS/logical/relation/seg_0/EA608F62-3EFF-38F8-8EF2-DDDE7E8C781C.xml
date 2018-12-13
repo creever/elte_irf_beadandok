@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_13" directorySegmentName="seg_0" id="EA608F62-3EFF-38F8-8EF2-DDDE7E8C781C">
+<createdBy>Developer</createdBy>
+<createdTime>2018-11-05 17:30:35 UTC</createdTime>
+<ownerDesignName>LDS</ownerDesignName>
+<engineerTo>
+<item key="F8C6EB76-2AB8-B214-D344-B6D8399E4325" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Fogadja</nameOnSource>
+<nameOnTarget>Végleges számla</nameOnTarget>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>D5FD63BC-E8EA-EA87-1AB7-AF493F5808B3</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>4B42B3AB-C8F8-62B9-F421-C8920C175979</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

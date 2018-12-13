@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.process.ProcessModel>
+   <object objectType="Event" objectID="7D1F737C-1969-E294-A899-657D385F5ABD" name="Event_1" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.Event" propertyParentId="85F4FEDC-CC54-B97F-5FBB-57B0E8945520" propertySourceId="" propertyTargetId=""/>
+   <object objectType="InfoStore" objectID="B944E736-3683-A12E-22A1-F91B3BF24E21" name="Ajánlatok" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.InfoStore" propertyParentId="85F4FEDC-CC54-B97F-5FBB-57B0E8945520" propertySourceId="" propertyTargetId=""/>
+   <object objectType="InfoStore" objectID="4D9ADC46-F1FB-948C-07E5-250BBFA3E312" name="Falitabló" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.InfoStore" propertyParentId="85F4FEDC-CC54-B97F-5FBB-57B0E8945520" propertySourceId="" propertyTargetId=""/>
+   <object objectType="InfoStore" objectID="0B33DD13-3A1A-C1F0-5E9C-A2BF889808F4" name="Oktatási ütemterv" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.InfoStore" propertyParentId="85F4FEDC-CC54-B97F-5FBB-57B0E8945520" propertySourceId="" propertyTargetId=""/>
+   <object objectType="InfoStore" objectID="7DF8549C-A1ED-E55A-CAF5-6F7D47B29B8A" name="Tanfolyam dossziék" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.InfoStore" propertyParentId="85F4FEDC-CC54-B97F-5FBB-57B0E8945520" propertySourceId="" propertyTargetId=""/>
+   <object objectType="InfoStore" objectID="0A8DE66D-55B4-78E0-B52D-51DB1A64FAEE" name="Törölt és számlázott ügyfelek" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.InfoStore" propertyParentId="85F4FEDC-CC54-B97F-5FBB-57B0E8945520" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.design.process.ProcessModel>

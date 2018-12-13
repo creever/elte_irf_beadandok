@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Számlák elkészítése" directorySegmentName="seg_0" id="BA049DC8-E396-7287-DFC8-528C16480426">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 21:40:14 UTC</createdTime>
+<ownerDesignName>cramhead_dfd</ownerDesignName>
+<destination>04B90050-1AD9-C42B-F9FB-4684BAB08846</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>false</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>AD323614-A47B-854F-CC5F-10C6DB7E8BF5</sourceProcessObject>
+<targetProcessObject>04B90050-1AD9-C42B-F9FB-4684BAB08846</targetProcessObject>
+</Flow>

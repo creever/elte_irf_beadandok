@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Szabad helyekv2" directorySegmentName="seg_0" id="D60BCCE2-C134-016F-5CFA-8C995D88991D">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 20:57:27 UTC</createdTime>
+<ownerDesignName>cramhead_dfd_2</ownerDesignName>
+<destination>4D9ADC46-F1FB-948C-07E5-250BBFA3E312</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>false</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>7E7317EE-4C90-AF40-A99F-B827F2F3DF47</sourceProcessObject>
+<targetProcessObject>4D9ADC46-F1FB-948C-07E5-250BBFA3E312</targetProcessObject>
+</Flow>

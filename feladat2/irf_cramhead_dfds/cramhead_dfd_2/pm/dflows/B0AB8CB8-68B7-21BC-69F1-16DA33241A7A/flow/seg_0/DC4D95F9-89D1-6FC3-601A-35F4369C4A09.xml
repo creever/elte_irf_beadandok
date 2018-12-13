@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Elutasítás" directorySegmentName="seg_0" id="DC4D95F9-89D1-6FC3-601A-35F4369C4A09">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 21:06:21 UTC</createdTime>
+<ownerDesignName>cramhead_dfd_2</ownerDesignName>
+<destination>B944E736-3683-A12E-22A1-F91B3BF24E21</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>false</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>758A6069-95EC-FD39-39F3-FADC3CC6F900</sourceProcessObject>
+<targetProcessObject>B944E736-3683-A12E-22A1-F91B3BF24E21</targetProcessObject>
+</Flow>

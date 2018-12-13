@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Foglalás módosítása" directorySegmentName="seg_0" id="7418F8D7-F1ED-3D4C-C04E-C83B468DDA53">
+<createdBy>Developer</createdBy>
+<createdTime>2018-11-05 16:13:23 UTC</createdTime>
+<ownerDesignName>LDS</ownerDesignName>
+<engineerTo>
+<item key="F8C6EB76-2AB8-B214-D344-B6D8399E4325" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Szerepel</nameOnSource>
+<nameOnTarget>Tartalmazza</nameOnTarget>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>10AC1E0D-EAB6-9EEA-094D-8E32FE687796</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>23B295D0-6B91-1F04-A7C9-87545D8192AE</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

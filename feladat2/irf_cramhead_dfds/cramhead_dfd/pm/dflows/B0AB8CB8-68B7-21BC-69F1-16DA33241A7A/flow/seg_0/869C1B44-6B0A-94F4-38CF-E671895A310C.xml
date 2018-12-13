@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Brossúra" directorySegmentName="seg_0" id="869C1B44-6B0A-94F4-38CF-E671895A310C">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 21:33:43 UTC</createdTime>
+<ownerDesignName>cramhead_dfd</ownerDesignName>
+<destination>1EAFBD32-3438-AA02-2CF8-977D3D68A3FD</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>false</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>29B90CA8-69DC-8061-AF89-A1D2C6D3FED5</sourceProcessObject>
+<targetProcessObject>1EAFBD32-3438-AA02-2CF8-977D3D68A3FD</targetProcessObject>
+</Flow>

@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="44CE0E5A-933E-6018-2824-534FC4E48DC4" name="Foglalási dosszié">
+<createdBy>Developer</createdBy>
+<createdTime>2018-11-05 16:12:03 UTC</createdTime>
+<ownerDesignName>LDS</ownerDesignName>
+<engineerTo>
+<item key="F8C6EB76-2AB8-B214-D344-B6D8399E4325" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

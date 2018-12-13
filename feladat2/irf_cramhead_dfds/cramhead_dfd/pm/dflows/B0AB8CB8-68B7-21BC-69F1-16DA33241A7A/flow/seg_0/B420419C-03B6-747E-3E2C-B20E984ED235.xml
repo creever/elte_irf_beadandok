@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Számla másolat" directorySegmentName="seg_0" id="B420419C-03B6-747E-3E2C-B20E984ED235">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 21:41:40 UTC</createdTime>
+<ownerDesignName>cramhead_dfd</ownerDesignName>
+<destination>6368A212-27F9-EE06-E637-F5C7B63B95A0</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>true</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>04B90050-1AD9-C42B-F9FB-4684BAB08846</sourceProcessObject>
+<targetProcessObject>6368A212-27F9-EE06-E637-F5C7B63B95A0</targetProcessObject>
+</Flow>

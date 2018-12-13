@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<InfoStore class="oracle.dbtools.crest.model.design.process.InfoStore" name="Számlák" directorySegmentName="seg_0" id="04B90050-1AD9-C42B-F9FB-4684BAB08846">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 21:40:05 UTC</createdTime>
+<ownerDesignName>cramhead_dfd</ownerDesignName>
+<rdbmsSite>Oracle Database 11g</rdbmsSite>
+<selfDescribing>false</selfDescribing>
+<skipRecords>0</skipRecords>
+<type>RDBMS</type>
+</InfoStore>

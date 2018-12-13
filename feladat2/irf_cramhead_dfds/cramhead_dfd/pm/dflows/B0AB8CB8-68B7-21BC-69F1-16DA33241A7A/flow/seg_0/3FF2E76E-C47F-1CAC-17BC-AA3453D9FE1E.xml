@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Számlán található dátum és összeg felvitele a foglalási űrlapra" directorySegmentName="seg_0" id="3FF2E76E-C47F-1CAC-17BC-AA3453D9FE1E">
+<createdBy>Horváth Dávid</createdBy>
+<createdTime>2018-11-04 21:42:25 UTC</createdTime>
+<ownerDesignName>cramhead_dfd</ownerDesignName>
+<destination>71B73BB2-6874-7E15-1CFA-C6745CDBA7CE</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>false</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>AD323614-A47B-854F-CC5F-10C6DB7E8BF5</sourceProcessObject>
+<targetProcessObject>71B73BB2-6874-7E15-1CFA-C6745CDBA7CE</targetProcessObject>
+</Flow>

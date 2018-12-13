@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Számla elkészítése" directorySegmentName="seg_0" id="8ABE0E36-345A-7D66-8644-30809DC82EEF">
+<createdBy>Developer</createdBy>
+<createdTime>2018-11-05 17:24:02 UTC</createdTime>
+<ownerDesignName>LDS</ownerDesignName>
+<engineerTo>
+<item key="F8C6EB76-2AB8-B214-D344-B6D8399E4325" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Számla előkészítése</nameOnSource>
+<nameOnTarget>Megerősített foglalás</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>6C7FD836-4BB5-2263-F504-8C295000BB63</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>44CE0E5A-933E-6018-2824-534FC4E48DC4</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
