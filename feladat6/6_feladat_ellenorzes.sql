@@ -13,7 +13,7 @@ BEGIN
     SELECT egyenleg into tulajdonos_eredeti_egyenleg FROM BANKSZAMLA WHERE tulajdonos = 'Munkahely';
     
     FOR i IN 1..loop_hossz LOOP 
-        AWUD3U.JUTALOM(jutalom_osszege);
+        JUTALOM(jutalom_osszege);
     END LOOP;
     
     LOOP
@@ -36,13 +36,13 @@ BEGIN
     
     SELECT egyenleg into tulajdonos_uj_egyenleg FROM BANKSZAMLA WHERE tulajdonos = 'Munkahely';
     
-    IF tulajdonos_uj_egyenleg = (tulajdonos_eredeti_egyenleg - loop_hossz * jutalom_osszege) * alkalmazottak_szama  THEN
-        DBMS_OUTPUT.PUT_LINE ('A tulajdonos új egyenlege megfelelõ: ' || 
-            tulajdonos_uj_egyenleg || ' == ' || ((tulajdonos_eredeti_egyenleg - loop_hossz * jutalom_osszege) * alkalmazottak_szama)
+    IF tulajdonos_uj_egyenleg = tulajdonos_eredeti_egyenleg - (loop_hossz * jutalom_osszege * alkalmazottak_szama)  THEN
+        DBMS_OUTPUT.PUT_LINE ('A munkahely új egyenlege megfelelõ: ' || 
+            tulajdonos_uj_egyenleg || ' == ' || (tulajdonos_eredeti_egyenleg - (loop_hossz * jutalom_osszege * alkalmazottak_szama))
         );
     ELSE 
         DBMS_OUTPUT.PUT_LINE ('A tulajdonos új egyenlege hibás: ' ||
-            tulajdonos_uj_egyenleg || ' != ' || (tulajdonos_eredeti_egyenleg + loop_hossz * jutalom_osszege)
+            tulajdonos_uj_egyenleg || ' != ' || tulajdonos_eredeti_egyenleg + (loop_hossz * jutalom_osszege * alkalmazottak_szama)
         );
     END IF;
     
